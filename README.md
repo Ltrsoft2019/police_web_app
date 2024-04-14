@@ -12,6 +12,8 @@ Before running this project, ensure you have the following installed:
 - PHP
 - Composer
 - XAMPP
+- nodejs
+- git
 - Visual Studio Code (optional, but recommended)
 - Web Browser
 
