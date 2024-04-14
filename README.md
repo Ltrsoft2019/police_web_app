@@ -50,7 +50,7 @@ Before running this project, ensure you have the following installed:
 - [List some key features of your application]
 
 ## Screenshots
-![Screenshot 1](https://github.com/Ltrsoft2019/dataset-of-karnataka/blob/main/public/images/Screenshot%20(64).png)
+![Screenshot 1](https://github.com/Ltrsoft2019/dataset-of-karnataka/blob/main/public/images/Screenshot%20(65).png)
 ![Screenshot 2](path/to/screenshot2.png)
 
 ## Conclusion
