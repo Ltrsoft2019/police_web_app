@@ -50,7 +50,7 @@ Before running this project, ensure you have the following installed:
 - [List some key features of your application]
 
 ## Screenshots
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1](public/images/Screenshot (64).png)
 ![Screenshot 2](path/to/screenshot2.png)
 
 ## Conclusion
