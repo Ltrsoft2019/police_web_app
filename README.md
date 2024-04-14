@@ -47,7 +47,10 @@ Before running this project, ensure you have the following installed:
 9. *Access the Application*
    - Once the server is running, open your web browser and enter the IP address provided by the php artisan serve command.
 
-
+## credentials:
+   - UserName: 1635859 (KGID)
+   - Password: 137400051 (Internal_IO)
+   - 
 ## Features
 - [List some key features of your application]
 
